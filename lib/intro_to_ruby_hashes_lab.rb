@@ -1,9 +1,11 @@
 def new_hash
-  # return an empty hash
+  return hash = {}
 end
 
 def my_hash
-  # return a valid hash with any key/value pair of your choice
+  return hash = {
+    plate: "china"
+  }
 end
 
 def pioneer
