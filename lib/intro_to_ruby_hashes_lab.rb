@@ -1,15 +1,17 @@
 def new_hash
-  return hash = {}
+  hash = {}
 end
 
 def my_hash
-  return hash = {
+  hash = {
     plate: "china"
   }
 end
 
 def pioneer
-  # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
+  pioneer = {
+    :name => "Grace Hopper"
+  }
 end
 
 
